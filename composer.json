@@ -1,0 +1,16 @@
+{
+    "name": "kubeecms/kcms-smtp",
+    "description": "Reconfigures the <code>wp_mail()</code> function to use Gmail/Mailgun/SendGrid/SMTP instead of the default <code>mail()</code> and creates an options page to manage the settings.",
+    "keywords": ["kubee", "kubeecms", "kcms-smtp"],
+    "homepage": "https://github.com/KubeeCMS/kcms-smtp/",
+    "authors": [
+      {
+        "name": "Kubee CMS",
+        "homepage": "https://github.com/KubeeCMS/kcms-smtp/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.4"
+    }
+  }
