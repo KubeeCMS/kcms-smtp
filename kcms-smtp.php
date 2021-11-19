@@ -2,7 +2,7 @@
 /**
  * Plugin Name: KCMS SMTP
  * Version: 3.2.1
- * Requires at least: 5.9
+ * Requires at least: 5.8
  * Requires PHP: 7.4
  * Plugin URI: https://github.com/KubeeCMS/kcms-smtp/
  * Description: Reconfigures the <code>wp_mail()</code> function to use Gmail/Mailgun/SendGrid/SMTP instead of the default <code>mail()</code> and creates an options page to manage the settings.
